@@ -14,7 +14,7 @@ do
 
 function run(msg, matches)
   return [[ 
-🔰ورژن:Jove (Old Smart) V 3.1🔰
+🔰ورژن:under (Old Smart) V 3.1🔰
 🔰یه ربات برنامه ریزی شده برپایه سید (هوشمند،سریع،قدرتمند)🔰
 🔰مدل پردازنده:Intel(R) Core(TM) i7-6700 CPU @ 3.40GHz🔰
 🔰تعداد هسته:2-1-1-2هسته🔰
@@ -23,11 +23,11 @@ function run(msg, matches)
 🔰محل سرور:هلند-آمریکا-فرانسه-فرانسه🔰
 🔰کانفیگور و توسعه دهنده: @vVv_ERPO_vVv🔰
 🔰مديريت و توسعه دهنده: @vWv_ERPO_vWv🔰
-🔰کانال: @JoveCH🔰
-🔰هلپر: @JoveTGBot🔰
-🔰سایت: JoveTG.Ir🔰
+🔰کانال: @clinetch🔰
+🔰هلپر: @amigos_tg🔰
+🔰سایت: norz.uk🔰
 🔰سودوها🔰:
-@vMv_ERPO_vMv & @vXv_ERPO_vXv & @Omid0263 & @vQv_ERPO_vQv
+@mr_xface 
 🇮🇷🇮🇷🇮🇷🇮🇷🇮🇷🇮🇷🇮🇷🇮
 ☀️توضیح مختصر☀️:
 یک ربات ساده و مخصوص مدیریت حرفه ای گروه
@@ -43,13 +43,14 @@ return {
   patterns = {
     "^ژوپیتر$",
     "^ورژن$",
-        "^jove$",
+        "^under$",
             "^version$",
     "^ver$",
         "^Ver$",
       "^Version$",
       "^Jove$",
-    "^جو$"
+    "$اندر$"
+  
   }, 
   run = run 
 }
