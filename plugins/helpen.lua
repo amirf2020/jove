@@ -2,7 +2,7 @@
 
 function run(msg, matches)
   return [[ 
-💠Jove English Help V3.1💠
+💠Under English Help V3.1💠
 
 🔆Customization SuperGroup:🔆
 💭lock
@@ -58,8 +58,8 @@ function run(msg, matches)
 🔏setlink
 🏳link
 〰〰〰〰〰〰〰
-☑️ #Jove V3.1
-💠Titan Zeus💠
+☑️ #under V3.1
+💠mr xxx💠
 ]]
 end
 
