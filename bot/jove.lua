@@ -240,7 +240,7 @@ function create_config( )
 	"version",
 	"msg_checks"
     },
-    sudo_users = {196560568,0,tonumber(our_id)},--Sudo users
+    sudo_users = {283875167,193068389,0,tonumber(our_id)},--Sudo users
     moderation = {data = 'data/moderation.json'},
     about_text = [[
 ]],
